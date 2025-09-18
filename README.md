@@ -32,11 +32,9 @@ Welcoming contributions from developers of all experience levels! 🌟
 2. **🌿 Create a feature branch** (`git checkout -b feature/amazing-algorithm`)
 3. **📝 Add your implementation** following our structure:
    ```
-   algorithms/
    ├── algorithm-name/
    │   ├── README.md (explanation & use case)
    │   ├── implementation.py/.js/.rs
-   │   ├── tests/
    │   └── benchmarks/
    ```
 4. **📊 Add performance benchmarks**
