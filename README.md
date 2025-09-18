@@ -1,4 +1,4 @@
-### Real-World Algos
+### Algos_In_Real_World
 
 [![GitHub license](https://img.shields.io/github/license/Phaham/Algos_In_Real_World?style=for-the-badge&color=green)](https://github.com/Phaham/Algos_In_Real_World/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/Phaham/Algos_In_Real_World/pulls)
