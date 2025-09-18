@@ -1,8 +1,8 @@
 # 🚀 Real-World Algorithms & Data Structures
 
-[![GitHub stars](https://img.shields.io/github/stars/Phaham/Algos_In_Real_World?style=for-the-badge&color=gold)](https://github.com/Phaham/Algos_In_Real_World/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Phaham/Algos_In_Real_World?style=for-the-badge&color=blue)](https://github.com/Phaham/Algos_In_Real_World/network)
-[![GitHub issues](https://img.shields.io/github/issues/Phaham/Algos_In_Real_World?style=for-the-badge&color=red)](https://github.com/Phaham/Algos_In_Real_World/issues)
+// [![GitHub stars](https://img.shields.io/github/stars/Phaham/Algos_In_Real_World?style=for-the-badge&color=gold)](https://github.com/Phaham/Algos_In_Real_World/stargazers)
+// [![GitHub forks](https://img.shields.io/github/forks/Phaham/Algos_In_Real_World?style=for-the-badge&color=blue)](https://github.com/Phaham/Algos_In_Real_World/network)
+// [![GitHub issues](https://img.shields.io/github/issues/Phaham/Algos_In_Real_World?style=for-the-badge&color=red)](https://github.com/Phaham/Algos_In_Real_World/issues)
 [![GitHub license](https://img.shields.io/github/license/Phaham/Algos_In_Real_World?style=for-the-badge&color=green)](https://github.com/Phaham/Algos_In_Real_World/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/Phaham/Algos_In_Real_World/pulls)
 
@@ -89,20 +89,11 @@ We welcome contributions from developers of all experience levels! 🌟
 
 ## 🌟 Portfolio & Connect
 
-**Phaham Khan** - *Full Stack Developer & Algorithm Enthusiast*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phaham)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phaham)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phaham.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phaham.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phaham.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phaham17@gmail.com)
 
-### 🚀 Featured Projects
-- **🏢 Enterprise Solutions:** Scalable microservices architecture
-- **📊 Data Engineering:** Real-time analytics pipelines
-- **🌐 Full-Stack Applications:** Modern web development
-- **🤖 Machine Learning:** Production ML systems
-
----
 
 ## 📈 Repository Stats
 
