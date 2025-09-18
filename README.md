@@ -1,4 +1,4 @@
-# 🚀 Real-World Algorithms & Data Structures
+### Real-World Algos
 
 [![GitHub license](https://img.shields.io/github/license/Phaham/Algos_In_Real_World?style=for-the-badge&color=green)](https://github.com/Phaham/Algos_In_Real_World/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/Phaham/Algos_In_Real_World/pulls)
@@ -9,7 +9,7 @@ A curated collection of **real-world implementations** of data structures and al
 
 ---
 
-## 🛠️ Tech Stack & Implementation Languages
+#### 🛠️ Tech Stack & Implementation Languages
 
 | Language | Use Case | Strengths |
 |----------|----------|-----------|
@@ -22,11 +22,11 @@ A curated collection of **real-world implementations** of data structures and al
 
 ---
 
-## 🤝 Contributing Guidelines
+#### 🤝 Contributing Guidelines
 
 We welcome contributions from developers of all experience levels! 🌟
 
-### 📋 How to Contribute
+#### 📋 How to Contribute
 
 1. **🍴 Fork the repository**
 2. **🌿 Create a feature branch** (`git checkout -b feature/amazing-algorithm`)
@@ -42,7 +42,7 @@ We welcome contributions from developers of all experience levels! 🌟
 4. **📊 Add performance benchmarks**
 5. **🔄 Submit a pull request**
 
-### 📜 Code Standards
+#### 📜 Code Standards
 
 - 📝 **Clear naming conventions** (descriptive variable names)
 - 🧹 **Clean, readable code** with appropriate comments
@@ -52,20 +52,12 @@ We welcome contributions from developers of all experience levels! 🌟
 
 ---
 
-## 🌟 Portfolio & Connect
+#### 🌟 Portfolio & Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phaham)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phaham)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phaham.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phaham17@gmail.com)
-
-
-## 📈 Repository Stats
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Phaham/Algos_In_Real_World?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Phaham/Algos_In_Real_World?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/Phaham/Algos_In_Real_World?style=flat-square)
-
 ---
 
 ## 📄 License
