@@ -2,7 +2,7 @@
 
 // Approach - 1 | Heap + Lazy Deletion
 // Explanation - https://gist.github.com/Phaham/93e7c96b6b29e4625a4b1de4f5dc15d5
-// Read Blog - 
+// Read Blog - https://phaham.hashnode.dev/designing-a-food-rating-system-lc-2353
 
 #include <bits/stdc++.h>
 using namespace std;
