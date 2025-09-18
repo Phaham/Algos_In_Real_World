@@ -24,7 +24,7 @@ A curated collection of **real-world implementations** of data structures and al
 
 #### 🤝 Contributing Guidelines
 
-We welcome contributions from developers of all experience levels! 🌟
+Welcoming contributions from developers of all experience levels! 🌟
 
 #### 📋 How to Contribute
 
@@ -59,13 +59,5 @@ We welcome contributions from developers of all experience levels! 🌟
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phaham.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phaham17@gmail.com)
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐ **Star this repository** if you find it helpful for your learning journey or career growth!
 
 *"The best algorithms are the ones that solve real problems for real people."* 💡
