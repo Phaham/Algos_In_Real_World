@@ -1,8 +1,5 @@
 # 🚀 Real-World Algorithms & Data Structures
 
-// [![GitHub stars](https://img.shields.io/github/stars/Phaham/Algos_In_Real_World?style=for-the-badge&color=gold)](https://github.com/Phaham/Algos_In_Real_World/stargazers)
-// [![GitHub forks](https://img.shields.io/github/forks/Phaham/Algos_In_Real_World?style=for-the-badge&color=blue)](https://github.com/Phaham/Algos_In_Real_World/network)
-// [![GitHub issues](https://img.shields.io/github/issues/Phaham/Algos_In_Real_World?style=for-the-badge&color=red)](https://github.com/Phaham/Algos_In_Real_World/issues)
 [![GitHub license](https://img.shields.io/github/license/Phaham/Algos_In_Real_World?style=for-the-badge&color=green)](https://github.com/Phaham/Algos_In_Real_World/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/Phaham/Algos_In_Real_World/pulls)
 
